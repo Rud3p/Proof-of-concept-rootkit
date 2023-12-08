@@ -3,6 +3,13 @@
 ### Overview
 This Python script demonstrates a basic rootkit by hooking into system calls, printing messages for file actions, and attempting persistence through the Windows registry.
 
+## Graph Representation
+
+Here is a visual representation of the rootkit functionalities:
+
+![Graph](graph.md)
+
+
 ### Usage
 1. Run `rootkit.py` on a Windows system with Python 3.x.
 2. Review console output for file action messages.
