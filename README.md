@@ -7,7 +7,7 @@ This Python script demonstrates a basic rootkit by hooking into system calls, pr
 
 Here is a visual representation of the rootkit functionalities:
 
-![Graph](graph.md)
+![Graph](Graph.md)
 
 
 ### Usage
